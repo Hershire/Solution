@@ -1,0 +1,61 @@
+S:\Legend of Mir 3\Code\Source\Server\bin\Debug\Server.exe.config
+S:\Legend of Mir 3\Code\Source\Server\bin\Debug\Server.exe
+S:\Legend of Mir 3\Code\Source\Server\bin\Debug\Server.pdb
+S:\Legend of Mir 3\Code\Debug\Server\Server.exe.config
+S:\Legend of Mir 3\Code\Debug\Server\Server.exe
+S:\Legend of Mir 3\Code\Debug\Server\Server.pdb
+S:\Legend of Mir 3\Debug\Server\Server.exe.config
+S:\Legend of Mir 3\Debug\Server\Server.exe
+S:\Legend of Mir 3\Debug\Server\Server.pdb
+S:\Legend of Mir 3\Code\Source\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+S:\Legend of Mir 3\Code\Source\Server\obj\Debug\Server.Main.resources
+S:\Legend of Mir 3\Code\Source\Server\obj\Debug\Server.Properties.Resources.resources
+S:\Legend of Mir 3\Code\Source\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+S:\Legend of Mir 3\Code\Source\Server\obj\Debug\Server.exe
+S:\Legend of Mir 3\Code\Source\Server\obj\Debug\Server.pdb
+S:\Legend of Mir\Debug\Server\Server.exe.config
+S:\Legend of Mir\Debug\Server\Server.exe
+S:\Legend of Mir\Debug\Server\Server.pdb
+S:\Legend of Mir\Code\Source\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+S:\Legend of Mir\Code\Source\Server\obj\Debug\Server.Main.resources
+S:\Legend of Mir\Code\Source\Server\obj\Debug\Server.Properties.Resources.resources
+S:\Legend of Mir\Code\Source\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+S:\Legend of Mir\Code\Source\Server\obj\Debug\Server.exe
+S:\Legend of Mir\Code\Source\Server\obj\Debug\Server.pdb
+S:\Legend of Mir\Code\Source\Server\obj\Debug\Server.ConfigForm.resources
+D:\Debug\Server\Server.exe.config
+D:\Share Storage\Source\Server\obj\Debug\Server.exe
+D:\Share Storage\Source\Server\obj\Debug\Server.pdb
+E:\Debug\Server\Server.exe.config
+E:\Debug\Server\Server.exe
+E:\Debug\Server\Server.pdb
+E:\Source\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Source\Server\obj\Debug\Server.ConfigForm.resources
+E:\Source\Server\obj\Debug\Server.Main.resources
+E:\Source\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Source\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Source\Server\obj\Debug\Server.exe
+E:\Source\Server\obj\Debug\Server.pdb
+F:\Debug\Server\Server.exe.config
+F:\Archive 2\Source\Server\obj\Debug\Server.exe
+F:\Archive 2\Source\Server\obj\Debug\Server.pdb
+F:\Debug\Server\Server.exe
+F:\Debug\Server\Server.pdb
+F:\Archive 2\Source\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\Archive 2\Source\Server\obj\Debug\Server.ConfigForm.resources
+F:\Archive 2\Source\Server\obj\Debug\Server.Main.resources
+F:\Archive 2\Source\Server\obj\Debug\Server.Properties.Resources.resources
+F:\Archive 2\Source\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\Archive 2\Debug\Server\Server.exe.config
+F:\Archive 2\Debug\Server\Server.exe
+F:\Archive 2\Debug\Server\Server.pdb
+E:\C# Mir\Debug\Server\Server.exe.config
+E:\C# Mir\Source\Server\obj\Debug\Server.exe
+E:\C# Mir\Source\Server\obj\Debug\Server.pdb
+E:\C# Mir\Debug\Server\Server.exe
+E:\C# Mir\Debug\Server\Server.pdb
+E:\C# Mir\Source\Server\obj\Debug\Server.ConfigForm.resources
+E:\C# Mir\Source\Server\obj\Debug\Server.Main.resources
+E:\C# Mir\Source\Server\obj\Debug\Server.Properties.Resources.resources
+E:\C# Mir\Source\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\C# Mir\Source\Server\obj\Debug\Server.csproj.GenerateResource.Cache

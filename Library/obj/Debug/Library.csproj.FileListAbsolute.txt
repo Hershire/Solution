@@ -1,0 +1,24 @@
+S:\Legend of Mir 3\Code\Source\Library\bin\Debug\Library.dll
+S:\Legend of Mir 3\Code\Source\Library\bin\Debug\Library.pdb
+S:\Legend of Mir 3\Debug\Library\Library.dll
+S:\Legend of Mir 3\Debug\Library\Library.pdb
+S:\Legend of Mir 3\Code\Source\Library\obj\Debug\Library.dll
+S:\Legend of Mir 3\Code\Source\Library\obj\Debug\Library.pdb
+S:\Legend of Mir 3\Code\Source\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+S:\Legend of Mir\Debug\Library\Library.dll
+S:\Legend of Mir\Debug\Library\Library.pdb
+S:\Legend of Mir\Code\Source\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+S:\Legend of Mir\Code\Source\Library\obj\Debug\Library.dll
+S:\Legend of Mir\Code\Source\Library\obj\Debug\Library.pdb
+E:\Debug\Library\Library.dll
+E:\Debug\Library\Library.pdb
+E:\Source\Library\obj\Debug\Library.dll
+E:\Source\Library\obj\Debug\Library.pdb
+F:\Debug\Library\Library.dll
+F:\Debug\Library\Library.pdb
+F:\Archive 2\Source\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+F:\Archive 2\Source\Library\obj\Debug\Library.dll
+F:\Archive 2\Source\Library\obj\Debug\Library.pdb
+E:\C# Mir\Source\Library\obj\Debug\Library.dll
+E:\C# Mir\Source\Library\obj\Debug\Library.pdb
+E:\C# Mir\Source\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache

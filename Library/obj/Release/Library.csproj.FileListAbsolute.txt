@@ -1,0 +1,5 @@
+S:\Legend of Mir 3\Release\Library\Library.dll
+S:\Legend of Mir 3\Release\Library\Library.pdb
+S:\Legend of Mir 3\Code\Source\Library\obj\Release\Library.dll
+S:\Legend of Mir 3\Code\Source\Library\obj\Release\Library.pdb
+S:\Legend of Mir 3\Code\Source\Library\obj\Release\Library.csprojResolveAssemblyReference.cache

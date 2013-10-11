@@ -1,0 +1,9 @@
+S:\Legend of Mir 3\Release\Client\Mir 3.exe.config
+S:\Legend of Mir 3\Release\Client\Mir 3.exe
+S:\Legend of Mir 3\Release\Client\Mir 3.pdb
+S:\Legend of Mir 3\Code\Source\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+S:\Legend of Mir 3\Code\Source\Client\obj\Release\Client.Main.resources
+S:\Legend of Mir 3\Code\Source\Client\obj\Release\Client.Properties.Resources.resources
+S:\Legend of Mir 3\Code\Source\Client\obj\Release\Client.csproj.GenerateResource.Cache
+S:\Legend of Mir 3\Code\Source\Client\obj\Release\Mir 3.exe
+S:\Legend of Mir 3\Code\Source\Client\obj\Release\Mir 3.pdb

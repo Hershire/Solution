@@ -1,0 +1,51 @@
+S:\Legend of Mir 3\Debug\Client\Mir 3.exe.config
+S:\Legend of Mir 3\Debug\Client\Mir 3.exe
+S:\Legend of Mir 3\Debug\Client\Mir 3.pdb
+S:\Legend of Mir 3\Code\Source\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+S:\Legend of Mir 3\Code\Source\Client\obj\Debug\Client.Main.resources
+S:\Legend of Mir 3\Code\Source\Client\obj\Debug\Client.Properties.Resources.resources
+S:\Legend of Mir 3\Code\Source\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+S:\Legend of Mir 3\Code\Source\Client\obj\Debug\Mir 3.exe
+S:\Legend of Mir 3\Code\Source\Client\obj\Debug\Mir 3.pdb
+S:\Legend of Mir\Code\Source\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+S:\Legend of Mir\Code\Source\Client\obj\Debug\Client.Main.resources
+S:\Legend of Mir\Code\Source\Client\obj\Debug\Client.Properties.Resources.resources
+S:\Legend of Mir\Code\Source\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+S:\Legend of Mir\Debug\Client\Mir 2.exe.config
+S:\Legend of Mir\Debug\Client\Mir 2.exe
+S:\Legend of Mir\Debug\Client\Mir 2.pdb
+S:\Legend of Mir\Code\Source\Client\obj\Debug\Mir 2.exe
+S:\Legend of Mir\Code\Source\Client\obj\Debug\Mir 2.pdb
+D:\Debug\Client\Mir 2.exe.config
+D:\Share Storage\Source\Client\obj\Debug\Mir 2.exe
+D:\Share Storage\Source\Client\obj\Debug\Mir 2.pdb
+E:\Debug\Client\Mir 2.exe.config
+E:\Debug\Client\Mir 2.exe
+E:\Debug\Client\Mir 2.pdb
+E:\Source\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Source\Client\obj\Debug\Client.Main.resources
+E:\Source\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Source\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Source\Client\obj\Debug\Mir 2.exe
+E:\Source\Client\obj\Debug\Mir 2.pdb
+F:\Debug\Client\Mir 2.exe.config
+F:\Archive 2\Source\Client\obj\Debug\Mir 2.exe
+F:\Archive 2\Source\Client\obj\Debug\Mir 2.pdb
+F:\Debug\Client\Mir 2.exe
+F:\Debug\Client\Mir 2.pdb
+F:\Archive 2\Source\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Archive 2\Source\Client\obj\Debug\Client.Main.resources
+F:\Archive 2\Source\Client\obj\Debug\Client.Properties.Resources.resources
+F:\Archive 2\Source\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\Archive 2\Debug\Client\Mir 2.exe.config
+F:\Archive 2\Debug\Client\Mir 2.exe
+F:\Archive 2\Debug\Client\Mir 2.pdb
+E:\C# Mir\Debug\Client\Mir 2.exe.config
+E:\C# Mir\Debug\Client\Mir 2.exe
+E:\C# Mir\Debug\Client\Mir 2.pdb
+E:\C# Mir\Source\Client\obj\Debug\Client.Main.resources
+E:\C# Mir\Source\Client\obj\Debug\Client.Properties.Resources.resources
+E:\C# Mir\Source\Client\obj\Debug\Mir 2.exe
+E:\C# Mir\Source\Client\obj\Debug\Mir 2.pdb
+E:\C# Mir\Source\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\C# Mir\Source\Client\obj\Debug\Client.csproj.GenerateResource.Cache
