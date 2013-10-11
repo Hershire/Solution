@@ -1,0 +1,5 @@
+10/10/2013 Josh
+Changed:
+MiniMap.cs Line 169 
+Opacity changed from 0.8F to 0.5F
+Mini Map is now more transparent.
