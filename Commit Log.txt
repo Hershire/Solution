@@ -1,4 +1,16 @@
-10/10/2013 Josh
+11/10/2013 2:27 Josh
+Changed:
+ChatPanel.cs Line 304
+Added funcionality to the chat window transparency button.
+Window is 100% transparent now.
+
+11/10/2013 2:27 Josh
+Changed:
+MiniMap.cs Line 171
+Opacity Changed from 0.8F to 0.5F
+Fixes bug that made transparent the only option.
+
+10/10/2013 23:45 Josh
 Changed:
 MiniMap.cs Line 169 
 Opacity changed from 0.8F to 0.5F

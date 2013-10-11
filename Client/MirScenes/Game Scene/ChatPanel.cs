@@ -80,6 +80,7 @@ namespace Client.MirScenes.Game_Scene
                 Location = new Point(372, 1),
                 Visible = true
             };
+            SettingsButton.Click += SettingsButton_Click;
 
             NormalButton = new MirButton
             {
@@ -287,6 +288,38 @@ namespace Client.MirScenes.Game_Scene
                 case 2:
                     LineCount = 12;
                     Window.Index = 2207;
+                    StartIndex -= 4;
+                    break;
+            }
+            Window.Location = new Point(Window.Location.X, Bot - Window.Size.Height);
+            ControlBar.Location = new Point(ControlBar.Location.X, Window.DisplayRectangle.Top - ControlBar.Size.Height);
+            //Belt Location
+
+            for (int I = 0; I < ChatLines.Length; I++)
+                ChatLines[I].Visible = I < LineCount;
+
+            UpdateChatList();
+        }
+
+        static void SettingsButton_Click(object sender, EventArgs e)
+        {
+            if (++ChatSize >= 3) ChatSize = 0;
+            int Bot = Window.DisplayRectangle.Bottom;
+            switch (ChatSize)
+            {
+                case 0:
+                    LineCount = 4;
+                    Window.Index = 2200;
+                    StartIndex += 8;
+                    break;
+                case 1:
+                    LineCount = 8;
+                    Window.Index = 2203;
+                    StartIndex -= 4;
+                    break;
+                case 2:
+                    LineCount = 12;
+                    Window.Index = 2206;
                     StartIndex -= 4;
                     break;
             }
