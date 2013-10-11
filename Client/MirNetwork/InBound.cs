@@ -578,7 +578,7 @@ namespace Client.MirNetwork
             if (MapObject.User.ObjectID == P.ObjectID)
             {
                 MapObject.User.DoAction(MirAction.Die);
-               // GameScene.OutputMessage("You died.");
+                GameScene.OutputMessage("You died.");
                 return;
             }
 

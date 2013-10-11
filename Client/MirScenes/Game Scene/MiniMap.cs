@@ -166,7 +166,7 @@ namespace Client.MirScenes.Game_Scene
             if (Opacity == 0F)
             {
                 SetBigMode();
-                Opacity = 0.8F;
+                Opacity = 0.5F;
             }
             else if (Opacity == 0.8F)
             {
